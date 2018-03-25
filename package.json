@@ -1,8 +1,8 @@
 {
-    "name": "quietlight-plus",
-    "displayName": "Quiet Light+ Theme",
-    "description": "Tuned a Bit Quiet Light Theme",
-    "version": "1.0.30",
+    "name": "zen-flat-light",
+    "displayName": "Zen Flat Light Theme",
+    "description": "Zen Flat Light Theme",
+    "version": "1.0.0",
     "publisher": "ban",
     "engines": {
         "vscode": "^1.12.0"
@@ -12,15 +12,16 @@
     ],
     "keywords": [
         "light",
-        "quiet-light"
+        "zen-light",
+        "flat"
     ],
     "contributes": {
         "themes": [
             {
-                "id": "quietLight-plus-theme",
-                "label": "Quiet Light+",
+                "id": "zen-flat-light-theme",
+                "label": "Zen Flat Light",
                 "uiTheme": "vs",
-                "path": "./themes/quietlight-plus.json"
+                "path": "./themes/zen-flat-light.json"
             }
         ]
     },
@@ -30,17 +31,17 @@
         "theme": "light"
     },
     "license": "SEE LICENSE IN LICENSE.md",
-    "homepage": "https://github.com/bartosz-antosik/vscode-quietlight-plus",
+    "homepage": "https://github.com/oub/vscode-zen-flat-light.git",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bartosz-antosik/vscode-quietlight-plus.git"
+        "url": "https://github.com/oub/vscode-zen-flat-light.git.git"
     },
     "bugs": {
-        "url": "https://github.com/bartosz-antosik/vscode-quietlight-plus/issues"
+        "url": "https://github.com/oub/vscode-zen-flat-light.git/issues"
     },
     "__metadata": {
         "id": "8c1362f8-5032-4201-9794-9e389da41fff",
         "publisherId": "177932fc-042d-4e07-a88f-6c5fe388a722",
-        "publisherDisplayName": "Bartosz Antosik"
+        "publisherDisplayName": "Olivier Cuenot"
     }
 }
