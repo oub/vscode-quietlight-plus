@@ -31,13 +31,13 @@
         "theme": "light"
     },
     "license": "SEE LICENSE IN LICENSE.md",
-    "homepage": "https://github.com/oub/vscode-zen-flat-light.git",
+    "homepage": "https://github.com/oub/vscode-zen-flat-light",
     "repository": {
         "type": "git",
-        "url": "https://github.com/oub/vscode-zen-flat-light.git.git"
+        "url": "https://github.com/oub/vscode-zen-flat-light.git"
     },
     "bugs": {
-        "url": "https://github.com/oub/vscode-zen-flat-light.git/issues"
+        "url": "https://github.com/oub/vscode-zen-flat-light/issues"
     },
     "__metadata": {
         "id": "8c1362f8-5032-4201-9794-9e389da41fff",
