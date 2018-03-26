@@ -1,6 +1,6 @@
 # Flat Light Theme for Visual Studio Code with lots of zen
 
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/oub.zen-flat-light.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=oub.zen-flat-light) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/oub.zen-flat-light.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=oub.zen-flat-light) [![Rating](https://vsmarketplacebadge.apphb.com/rating/oub.zen-flat-light.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=oub.zen-flat-light) [![license](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/bartosz-antosik/vscode-spellright/blob/master/LICENSE.md)
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/oub.zen-flat-light.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=oub.zen-flat-light) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/oub.zen-flat-light.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=oub.zen-flat-light) [![Rating](https://vsmarketplacebadge.apphb.com/rating/oub.zen-flat-light.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=oub.zen-flat-light) [![license](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/oub/vscode-zen-flat-light/blob/master/LICENSE.md)
 
 ## Screenshot
 
