@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-/*![screenshot](media/screenshot.png)*/
+![screenshot](media/screenshot.png)
 
 ## Installation
 
