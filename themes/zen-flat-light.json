@@ -2,7 +2,7 @@
 	"type": "light",
 	"colors": {
 		"widget.shadow": "#ccc",
-		"activityBar.background": "#f0f0f0",
+		"activityBar.background": "#ececec",
 		"activityBar.border": "#e0e0e0",
 		"activityBar.foreground": "#555",
 		"activityBar.dropBackground": "#a0a0a0",
