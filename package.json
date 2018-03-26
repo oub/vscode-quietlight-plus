@@ -3,7 +3,7 @@
     "displayName": "Zen Flat Light Theme",
     "description": "Zen Flat Light Theme",
     "version": "1.0.0",
-    "publisher": "ban",
+    "publisher": "qnoub",
     "engines": {
         "vscode": "^1.12.0"
     },
@@ -12,7 +12,7 @@
     ],
     "keywords": [
         "light",
-        "zen-light",
+        "zen",
         "flat"
     ],
     "contributes": {
